@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.76.3
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/prometheus v0.76.3
-	github.com/prometheus/common v0.42.0
+	github.com/prometheus/common v0.43.0
 	github.com/prometheus/prometheus v0.43.0
 	github.com/stretchr/testify v1.8.2
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0011.0.20230502184615-d93102a4c623
