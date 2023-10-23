@@ -16,7 +16,7 @@ require (
 	go.opentelemetry.io/collector/config/configtls v0.87.1-0.20231023033326-37116a25be8d
 	go.opentelemetry.io/collector/confmap v0.87.1-0.20231023033326-37116a25be8d
 	go.opentelemetry.io/collector/extension v0.87.1-0.20231023033326-37116a25be8d
-	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0016.0.20231023033326-37116a25be8d
+	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0017
 	go.uber.org/zap v1.26.0
 	google.golang.org/grpc v1.59.0
 )
